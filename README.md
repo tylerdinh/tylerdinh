@@ -1,4 +1,8 @@
-## Hi there 👋
+embodied ai, mechinterp, and ai safety
+
+<img width="500" height="500" alt="persimmon" src="https://github.com/user-attachments/assets/726197f4-160e-4398-8405-9a1de936cd14" />
+
+<!--## Hi there 👋-->
 
 <!--
 **tylerdinh/tylerdinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
